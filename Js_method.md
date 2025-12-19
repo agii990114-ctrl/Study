@@ -21,3 +21,5 @@
 | 11 | toUpperCase('문자') | 문자를 대문자로 출력 |
 | 12 | toLowerCase('문자') | 문자를 소문자로 출력 |
 | 13 | trim() <hr> trimStart() <hr> trimEnd() | 요소의 바깥 양쪽 공백 제거 <hr> 요소의 바깥 왼쪽 공백 제거 <hr> 요소의 바깥 오른쪽 공백 제거 |
+
+
