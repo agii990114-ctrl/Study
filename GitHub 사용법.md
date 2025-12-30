@@ -1,4 +1,4 @@
-## Git 사용법
+## GitHub 사용법
 1. Organization 생성
 2. Organization에 Repositories 생성.
 3. Issues 생성
